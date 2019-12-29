@@ -1,5 +1,5 @@
-# GeoQuiz-web-app
-This is one of there repositories for a full mobile and web development project. The project was submitted for assessment during UCL masters course and was awarded ***distinction**. 
+# GeoQuiz web app
+This is one of there repositories for a full mobile and web development project. The project was submitted for assessment during UCL masters course and was awarded **distinction**. 
 
 *Please check the [README file of the Server Repository](https://github.com/razekmh/GeoQuiz-server/blob/master/README.md) first, Before reading this file.*
 
@@ -16,7 +16,7 @@ The repository contains several files and folders, most of which are created by 
 File name | File Role
 ----------|----------
 index | The main application file which contains the basic material design elements, the map and the HTML DIVs which hosts all the items of the application 
-help | An identical copy of the HTML code compressed in the [help.js](https://github.com/ucl-geospatial/GeoQuiz-web-app/blob/master/ucesmmh/www/js/help.js) file. The purpose of this file is test the help page on the computer before publishing it to the phone.
+help | An identical copy of the HTML code compressed in the [help.js](https://github.com/razekmh/GeoQuiz-web-app/blob/master/ucesmmh/www/js/help.js) file. The purpose of this file is test the help page on the computer before publishing it to the phone.
 
 #### JavaScript files
 File name | File Role
