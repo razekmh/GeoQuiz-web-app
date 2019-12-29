@@ -41,16 +41,16 @@ ionicons.min.css | Getting Ion Icons
 leaflet.awesome-markers.css | Style for the Awesome markers
 styles.css | Style for material design 
 
-#### XML fiels
+#### XML files
 File name | File Role
 ----------|----------
-config.xml | Handeling phoneGap extension  
+config.xml | Handling phoneGap extension  
 port.xml | Hosted at `GeoQuiz-web-app/ucesmmh/www/res/` to get the port id
 
 ## Third Party code:
 Source  | Used in 
 --------|----------
-Web and Mobile Module Practicals | All the JS and HTML files
+Web and Mobile Module Practical | All the JS and HTML files
 [Group bar chart with tooltip](https://bl.ocks.org/Alireza-Dezfoolian/a1a7337cf9efd76dfc79c6ff9805dcf4) on 23/03/2019 | Draw the graphs in PastWeekRate.js
 d3.js | Draw the graphs in PastWeekRate.js
 Material Design | In the index.html 
